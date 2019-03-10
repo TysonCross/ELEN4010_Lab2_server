@@ -5,7 +5,7 @@ let mainRouter = require('./mainRoutes')
 
 app.use(mainRouter)
 
-let port = process.env.port || 3000
+let port = process.env.port || 80
 app.listen(port)
 
-console.log('Express server running on port ', port)
+console.log('Express server running on port', port)

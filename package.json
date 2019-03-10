@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "ELEN4010 Lab 2 - Node as a Web Server",
+  "description": "ELEN4010 Lab 2 Node as a Web Server",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,13 +11,10 @@
     "type": "git",
     "url": "https://github.com/TysonCross/ELEN4010_Lab2_server.git"
   },
-  "keywords": [
-    "npm",
-    "server",
-    "elen4010",
-    "lab",
-    "academic"
-  ],
+  "bugs": {
+    "url": "https://github.com/TysonCross/ELEN4010_Lab2_server/issues"
+  },
+  "homepage": "https://github.com/TysonCross/ELEN4010_Lab2_server#readme",
   "author": "Tyson Cross",
   "license": "ISC",
   "dependencies": {

@@ -1,5 +1,5 @@
 {
-  "name": "server",
+  "name": "test",
   "version": "1.0.0",
   "description": "ELEN4010 Lab 2 Node as a Web Server",
   "main": "index.js",
